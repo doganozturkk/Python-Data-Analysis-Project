@@ -1,2 +1,11 @@
-# Python-Data-Analysis-Project
-A Python &amp; Jupyter-based movie dataset analysis project using pandas and matplotlib.
+# Advanced Python Movie Data Analysis Project
+
+This project includes:
+- Expanded movie dataset
+- Python analysis script
+- Jupyter Notebook with detailed visualizations
+
+Run with:
+```
+python analysis.py
+```
