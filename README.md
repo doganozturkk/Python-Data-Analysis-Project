@@ -29,6 +29,18 @@ It includes:
 
 ---
 
+## 📂 Project Structure
+
+```
+movie-data-analysis-project
+├── analysis.py
+├── analysis.ipynb
+├── movies.csv
+└── README.md
+```
+
+---
+
 ## 📊 Features
 
 ### ✔️ Data Processing
@@ -49,7 +61,7 @@ It includes:
 
 ---
 
-## 🧠 Technologies Used
+## 🛠️ Technologies Used
 - Python  
 - Pandas  
 - Matplotlib  
@@ -83,5 +95,12 @@ The dataset includes:
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License — feel free to use it in your own projects.
+
+---
+
 ## 🙌 Author
+
 Developed by: @doganozturkk
